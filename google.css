@@ -3,7 +3,9 @@
   display: flex;
   justify-content: right;
   width: 100%;
-
+  position: fixed;
+  top:0;
+  right:0;
   
   
 }
@@ -34,7 +36,8 @@
 }
 .bnav {
   display: flex;
-  position: absolute;
+  position: fixed;
+  bottom:0;
   left:0;
   right:0;
   height: 12vh;
@@ -146,7 +149,8 @@ img {
   }
   .container {
   margin: -100px;
-   
+   position: fixed;
+   left: 14%;
   
   }
   .bottom-nav, .bottom-nav2 {
