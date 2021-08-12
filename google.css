@@ -1,0 +1,167 @@
+.topnav {
+  border: none grey 8px;
+  display: flex;
+  justify-content: right;
+  width: 100%;
+
+  
+  
+}
+.bottom-nav {
+  border: none grey 8px;
+  display: flex;
+  justify-content: left;
+  min-width:40vw;
+  color:green;
+  margin-top: 10px;
+}
+.bottom-nav1 {
+  border: none grey 8px;
+  display: flex;
+  justify-content: left;
+  min-width:10vw;
+  margin-top: 10px;
+  
+}
+.bottom-nav2 {
+  border: none grey 8px;
+  display: flex;
+  justify-content: center;
+  min-width:30vw;
+  margin-top: 10px;
+  
+  
+}
+.bnav {
+  display: flex;
+  position: absolute;
+  left:0;
+  right:0;
+  height: 12vh;
+  background-color: rgb(245,245,245);
+}
+.b {
+  color:grey;
+}
+a {
+  margin: 10px;
+  color: black;
+  font-size: 13px;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;}
+ #park-icon {
+    color: green;
+    margin: 9px -8px;
+    font-size: 17px;
+  }
+}
+
+.profile-pic {
+  margin: 9px
+}
+.container {
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  min-height: 100vh;
+  margin-top: -140px; 
+}
+.search-bar {
+   float: right;
+  padding: 6px;
+  border: solid rgb(184,184,184) 1px;
+  border-radius: 50px;
+  font-size: 17px;
+  height: 30px;
+  width: 40%;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  
+}
+input {
+  float:right;
+  padding: 6px;
+  border: none 1px;
+  border-radius: 50px;
+  font-size: 17px;
+  height: 20px;
+  width: 450px;
+  display: inline-block;
+}
+.material-icons {
+  color: grey;
+ 
+}
+input:focus {
+  outline: none;
+}
+.search-bar:hover {  
+  box-shadow: 0 0 7px rgba(33,33,33,.2);
+}
+.buttons {
+  margin: 30px;
+  border: none black 1px;
+  width: 450px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  
+}
+button {
+  margin: 0px 10px;
+  border-radius: 5px;
+  background-color:rgb(245,245,245);
+  height: 35px;
+    
+  border: none;
+  font-family: 'Roboto', sans-serif;
+  color:black;
+  padding: 10px;
+}
+button:hover {  
+  box-shadow: 0 0 4px rgba(33,33,33,.2);
+  border: solid grey 1px;
+}
+img {
+  margin: 30px;
+ 
+}
+@media screen and (max-width:768px) {
+   img {width: 30%;
+  height: auto; 
+  }
+  .search-bar {
+    width: 60%;
+    height: auto;
+  }
+  button {
+    width: 35%;
+    
+  }
+  .container {
+  margin: -100px;
+   
+  
+  }
+  .bottom-nav, .bottom-nav2 {
+    display:none;
+  }
+  .bnav {
+   display: flex;
+  justify-content: center;
+    margin-top: 50px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  /* For mobile phones: */
+  input {
+    width: 100%;
+  }
+}
