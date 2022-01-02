@@ -1,5 +1,5 @@
 # Responsive Google Home Page Clone
-A copy of Google's Home Page, created to practice HTML and CSS skills.
+A copy of Google's Home Page, created to practice HTML and CSS.
 <p>Here's a live demo: https://jackbayly.github.io/responsive-google-page/ </p>
 <h2>Things Learned</h2>
 <ul>
