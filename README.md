@@ -13,7 +13,7 @@ A copy of Google's Home Page, created to practice HTML and CSS skills.
 <h2>Things to Note</h2>
 <ul>
  <li>The text is in Spanish, as I had my browser set to the language on my browser. I kept it the same in the project.</li>
- <li>The page doesn't function like Google. I was just practicing HTML and CSS to get it to look like Google.</li>
+ <li>The page doesn't function like Google, it just looks like Google.</li>
  <li>It's a copy of how Google looked on my old laptop and may not be how Google looks on other browsers/devices.</li> 
  <li>RIP my old laptop</li>
  </ul>
