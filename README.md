@@ -18,4 +18,4 @@ A copy of Google's Home Page, created to practice HTML and CSS.
  <li>RIP my old laptop</li>
  </ul>
 <h2>Final Thoughts</h2>
-<p>The first draft of this project was pretty straightforward. I wanted to make a copy of the Google homepage by just looking at it, with HTML and CSS. I did that fairly quickly. The hard part was getting it to be responsive in the final draft, as it was my first time making a webpage responsive for mobile devices. After a lot of googling, I found media queries, and they saved the day. I like the result. It looks like Google on large devices and on phones. Mission accomplished.</p>
+<p>The first draft of this project was pretty straightforward. I wanted to make a copy of the Google homepage by just looking at it, with HTML and CSS. I did that fairly quickly. The hard part was getting it to be responsive in the final draft, as it was my first time making a webpage responsive for mobile devices. After a lot of googling, I found media queries, and they saved the day. I like the result. It looks like Google on large devices and on phones.</p>
